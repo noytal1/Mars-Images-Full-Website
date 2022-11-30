@@ -3,7 +3,7 @@
 Responsive website where you can browse NASA mars images and save your preferred ones - Now with the ability to register a new account,
 and login from everywhere to see your saved images!
 
-This is an expansion to the [Mars Images Project](https://github.com/shakedva/Mars-Images-Page).
+This is an expansion to the [Mars Images Project](https://github.com/noytal1/Mars-Images-Page).
 
 ## Technologies:
 * Node.js Express
